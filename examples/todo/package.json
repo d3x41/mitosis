@@ -16,7 +16,7 @@
   },
   "dependencies": {
     "@builder.io/mitosis": "workspace:*",
-    "@builder.io/mitosis-cli": "workspace:*",
+    "@builder.io/mitosis-cli": "0.0.8",
     "eslint": "^7.21.0"
   }
 }
